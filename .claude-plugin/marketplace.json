@@ -1,1 +1,5 @@
-
+{
+  "name": "sternenhimmel-theme",
+  "owner": { "name": "aaronwalkembach-lab" },
+  "plugins": [{ "name": "sternenhimmel", "source": "./" }]
+}
